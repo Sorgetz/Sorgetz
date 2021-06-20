@@ -1,6 +1,7 @@
 # Hi there!
 
 ![image](https://i.pinimg.com/originals/46/0c/b1/460cb18ad7a8e106fc438408d646e6e8.gif)
+
 My name is Eduarda Sorgetz, nice to meet you! 
 I'm a TI student and Back-End Developer.
 
